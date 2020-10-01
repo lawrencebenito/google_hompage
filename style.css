@@ -30,6 +30,24 @@ footer{
   justify-content: space-between;
 }
 
+footer a{
+  color: #5f6368;
+  line-height: 40px;
+  padding-left: 27px;
+  margin: 0 !important;
+}
+
+a{
+  color: #000000DE;
+  text-decoration: none;
+  font-size: 14px;
+  cursor: default;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
 .left-links{
   display: flex;
 }
@@ -39,14 +57,19 @@ footer{
   margin-right: 30px;
 }
 
-footer a{
-  color: #5f6368;
-  line-height: 40px;
-  padding-left: 27px;
-  margin: 0 !important;
+#app-launcher{
+  opacity: .70;
 }
 
-a{
+#app-launcher:hover{
+  opacity: .90;
+  cursor: pointer;
   text-decoration: none;
-  font-size: 14px;
+}
+
+#signin-button{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  background: #4285f4;
 }
