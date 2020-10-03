@@ -5,7 +5,7 @@ Hi! This project is an assignment in **The Odin Project**. I am not affiliated t
 
 ## My Goal
 
-To learn more about HTML/CSS tricks, specifically in terms of **CSS Flexbox**, **CSS Grids** and **New HTML5 Tags**.
+To refresh skills in HTML/CSS, specifically in terms of **CSS Flexbox** and apply the **New HTML5 Tags**.
 
 ## My Takeaway
 
